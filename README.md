@@ -1,4 +1,4 @@
-Android Architecture Components Basic Sample
+MVVM-Recyclerview-Binding-Dynamic-Edittext-Using-Room-Object
 ===================================
 
 This sample showcases the following Architecture Components:
