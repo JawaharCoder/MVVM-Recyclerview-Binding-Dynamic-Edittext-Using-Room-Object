@@ -10,3 +10,6 @@ compile 'android.arch.lifecycle:extensions:' + rootProject.archLifecycleVersion;
 compile 'android.arch.persistence.room:runtime:' + rootProject.archRoomVersion;
 annotationProcessor "android.arch.lifecycle:compiler:" + rootProject.archLifecycleVersion;
 annotationProcessor "android.arch.persistence.room:compiler:" + rootProject.archRoomVersion;
+
+![Alt text](/docs/images/VM_diagram.png?raw=true "MVVM Recyclerview Binding Dynamic Edittext Using Room Object")
+![Alt text](/docs/images/VM_subscriptions.png?raw=true "MVVM Recyclerview Binding Dynamic Edittext Using Room Object")
